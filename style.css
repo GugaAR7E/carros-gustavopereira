@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --orange: #E28625;
+    --green: #006971;
+    --dark-green: #004140;
+
+}
+
