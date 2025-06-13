@@ -11,3 +11,14 @@
 
 }
 
+.sedans {
+    background-color: var(--orange);
+}
+
+.suvs {
+    background-color: var(--green);
+}
+
+.luxuosos {
+    background-color: var(--dark-green);
+}
